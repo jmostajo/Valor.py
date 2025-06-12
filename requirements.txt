@@ -6,4 +6,5 @@ requests
 streamlit-extras
 Pillow
 python-dotenv
+xlsxwriter
 
